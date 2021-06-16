@@ -1,0 +1,40 @@
+{
+  "postscriptName": "OPPOSans-M",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "OPPOSans M",
+    "zh": "OPPOSans M"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "OPPOSans M",
+    "zh": "OPPOSans M"
+  },
+  "preferredFamily": {
+    "en": "OPPOSans",
+    "zh": "OPPOSans"
+  },
+  "preferredSubfamily": {
+    "en": "Medium",
+    "zh": "Medium"
+  },
+  "copyright": {
+    "en": "copyright （c） 2019 by OPPO. All rights reserved.",
+    "zh": "(c) 2019 OPPO广东移动通信有限公司 版权所有"
+  },
+  "characterLength": 28442,
+  "displayName": "OPPO-Sans",
+  "rawFileName": "OPPOSans-M.ttf",
+  "rawFileSize": 10080628,
+  "rawFileHash": {
+    "md5": "8a567f4b5a5367bc01e2c94ce99c5ffb",
+    "sha1": "21ad6d0e7337e96e2c77b774f45f9f26b289f476"
+  },
+  "previewWoff": "fonts/zh/OPPO-Sans/OPPOSans-M/preview/OPPOSans-M.preview.woff",
+  "previewWoff2": "fonts/zh/OPPO-Sans/OPPOSans-M/preview/OPPOSans-M.preview.woff2",
+  "woff": "fonts/zh/OPPO-Sans/OPPOSans-M/OPPOSans-M.woff",
+  "woff2": "fonts/zh/OPPO-Sans/OPPOSans-M/OPPOSans-M.woff2"
+}

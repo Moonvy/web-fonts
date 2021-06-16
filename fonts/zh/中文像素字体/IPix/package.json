@@ -1,0 +1,26 @@
+{
+  "postscriptName": "IPix",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "IPix"
+  },
+  "fontSubfamily": {
+    "en": "Regular"
+  },
+  "fullName": {
+    "en": "IPix"
+  },
+  "copyright": {
+    "en": "Copyright (c) 2019, zengsadi"
+  },
+  "characterLength": 6865,
+  "displayName": "中文像素字体",
+  "rawFileName": "IPix中文像素字体.ttf",
+  "rawFileSize": 2879376,
+  "rawFileHash": {
+    "md5": "99e1a0a5ea30d9977b895d20ed226c66",
+    "sha1": "ecfca979a91947b3908710753bbbf971e8f87d05"
+  },
+  "previewWoff": "fonts/zh/中文像素字体/IPix/preview/IPix.preview.woff",
+  "previewWoff2": "fonts/zh/中文像素字体/IPix/preview/IPix.preview.woff2"
+}

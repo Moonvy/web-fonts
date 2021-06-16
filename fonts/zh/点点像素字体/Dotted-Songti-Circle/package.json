@@ -1,0 +1,34 @@
+{
+  "postscriptName": "DottedSongtiCircleRegular",
+  "fontWeight": 500,
+  "fontFamily": {
+    "en": "Dotted Songti Circle"
+  },
+  "fontSubfamily": {
+    "en": "Regular"
+  },
+  "fullName": {
+    "en": "Dotted Songti Circle Regular"
+  },
+  "preferredFamily": {
+    "en": "Dotted Songti Circle"
+  },
+  "preferredSubfamily": {
+    "en": "Regular"
+  },
+  "copyright": {
+    "en": "Copyright (C) 2020 wixette"
+  },
+  "characterLength": 22793,
+  "displayName": "点点像素字体",
+  "rawFileName": "DottedSongtiCircleRegular.otf",
+  "rawFileSize": 6927764,
+  "rawFileHash": {
+    "md5": "bb11ce6f74cab9708c525b5dbec5067c",
+    "sha1": "d10b48796fda6fde80d776139d308630c635db79"
+  },
+  "previewWoff": "fonts/zh/点点像素字体/Dotted-Songti-Circle/preview/Dotted-Songti-Circle.preview.woff",
+  "previewWoff2": "fonts/zh/点点像素字体/Dotted-Songti-Circle/preview/Dotted-Songti-Circle.preview.woff2",
+  "woff": "fonts/zh/点点像素字体/Dotted-Songti-Circle/Dotted-Songti-Circle.woff",
+  "woff2": "fonts/zh/点点像素字体/Dotted-Songti-Circle/Dotted-Songti-Circle.woff2"
+}
