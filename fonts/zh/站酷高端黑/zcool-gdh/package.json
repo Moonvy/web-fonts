@@ -1,0 +1,32 @@
+{
+  "postscriptName": "zcool-gdh",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "zcool-gdh",
+    "zh": "站酷高端黑"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "zcool-gdh",
+    "zh": "站酷高端黑"
+  },
+  "copyright": {
+    "en": "zcool",
+    "zh": "(c) Copyright zcool 2014"
+  },
+  "characterLength": 7724,
+  "displayName": "站酷高端黑",
+  "rawFileName": " 站酷高端黑修订151105.ttf",
+  "rawFileSize": 3952284,
+  "rawFileHash": {
+    "md5": "b201c25ecfc5ee6f159223ef2746f78d",
+    "sha1": "db544879e8bf3be201fc03548bfd7081abf9f1eb"
+  },
+  "previewWoff": "fonts/zh/站酷高端黑/zcool-gdh/preview/zcool-gdh.preview.woff",
+  "previewWoff2": "fonts/zh/站酷高端黑/zcool-gdh/preview/zcool-gdh.preview.woff2",
+  "woff": "fonts/zh/站酷高端黑/zcool-gdh/zcool-gdh.woff",
+  "woff2": "fonts/zh/站酷高端黑/zcool-gdh/zcool-gdh.woff2"
+}

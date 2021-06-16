@@ -1,0 +1,17 @@
+{
+    "name": "@moonvy/web-fonts",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "ts-node ./script/genFonts.ts"
+    },
+    "devDependencies": {
+        "fast-glob": "^3.2.5",
+        "fontverter": "^2.0.0",
+        "fs-extra": "^10.0.0",
+        "hasha": "^5.2.2",
+        "filenamify": "^4.3.0"
+    },
+    "dependencies": {}
+}

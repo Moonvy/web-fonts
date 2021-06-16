@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "strict": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "types": ["jest", "node"],
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "skipLibCheck": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "sourceMap": true,
+        "module": "commonjs",
+        "resolveJsonModule": true,
+        "incremental": true,
+        "declaration": true,
+        "outDir": "dist",
+        "lib": ["esnext", "dom"]
+    },
+    "exclude": ["node_modules"]
+}
