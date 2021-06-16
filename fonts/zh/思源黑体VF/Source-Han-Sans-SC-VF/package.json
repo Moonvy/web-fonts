@@ -1,0 +1,35 @@
+{
+  "postscriptName": "SourceHanSansSCVF-ExtraLight",
+  "fontWeight": 250,
+  "fontFamily": {
+    "en": "Source Han Sans SC VF",
+    "zh": "思源黑体 VF"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "Source Han Sans SC VF",
+    "zh": "思源黑体 VF"
+  },
+  "preferredSubfamily": {
+    "en": "ExtraLight",
+    "zh": "ExtraLight"
+  },
+  "copyright": {
+    "en": "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
+  },
+  "characterLength": 44812,
+  "displayName": "思源黑体VF",
+  "rawFileName": "SourceHanSansSC-VF.otf",
+  "rawFileSize": 30737656,
+  "rawFileHash": {
+    "md5": "69793872cfa05ffbadf8d0deed2f9091",
+    "sha1": "2c4190f7b675062c68fc6cfaacd17c380c8ef513"
+  },
+  "previewWoff": "preview/Source-Han-Sans-SC-VF.preview.woff",
+  "previewWoff2": "preview/Source-Han-Sans-SC-VF.preview.woff2",
+  "woff": "Source-Han-Sans-SC-VF.woff",
+  "woff2": "Source-Han-Sans-SC-VF.woff2"
+}

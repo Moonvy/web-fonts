@@ -1,0 +1,30 @@
+{
+  "postscriptName": "slideyouran-Regular",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "slideyouran",
+    "zh": "演示悠然小楷"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "slideyouran Regular"
+  },
+  "copyright": {
+    "en": "Copyright © 2020 by keynoteart x mengxiangyuan x QiuyePPT. All rights reserved."
+  },
+  "characterLength": 6956,
+  "displayName": "演示悠然小楷",
+  "rawFileName": "slideyouran-Regular.ttf",
+  "rawFileSize": 12640032,
+  "rawFileHash": {
+    "md5": "e7748006240e0950bc4c2e9cf985e547",
+    "sha1": "375ebe181939bcc147633a737e54570de322df02"
+  },
+  "previewWoff": "preview/slideyouran.preview.woff",
+  "previewWoff2": "preview/slideyouran.preview.woff2",
+  "woff": "slideyouran.woff",
+  "woff2": "slideyouran.woff2"
+}

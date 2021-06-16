@@ -1,0 +1,8 @@
+/* [思源黑体 VF] */
+@font-face {
+ font-family: 'Source Han Sans SC VF';
+ font-weight: 250;
+ font-display: swap;
+ src: url(Source-Han-Sans-SC-VF.woff2) format('woff2'),
+      url(Source-Han-Sans-SC-VF.woff) format('woff');
+}

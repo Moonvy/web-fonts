@@ -1,0 +1,8 @@
+/* [演示悠然小楷] */
+@font-face {
+ font-family: 'slideyouran';
+ font-weight: 400;
+ font-display: swap;
+ src: url(slideyouran.woff2) format('woff2'),
+      url(slideyouran.woff) format('woff');
+}
