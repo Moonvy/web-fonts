@@ -21,6 +21,8 @@
     "md5": "99e1a0a5ea30d9977b895d20ed226c66",
     "sha1": "ecfca979a91947b3908710753bbbf971e8f87d05"
   },
-  "previewWoff": "fonts/zh/中文像素字体/IPix/preview/IPix.preview.woff",
-  "previewWoff2": "fonts/zh/中文像素字体/IPix/preview/IPix.preview.woff2"
+  "previewWoff": "preview/IPix.preview.woff",
+  "previewWoff2": "preview/IPix.preview.woff2",
+  "woff2": "IPix.woff2",
+  "woff": "IPix.woff"
 }

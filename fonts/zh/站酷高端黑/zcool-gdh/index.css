@@ -1,0 +1,8 @@
+/* [站酷高端黑] */
+@font-face {
+ font-family: 'zcool-gdh';
+ font-weight: 400;
+ font-display: swap;
+ src: url(zcool-gdh.woff2) format('woff2'),
+      url(zcool-gdh.woff) format('woff');
+}

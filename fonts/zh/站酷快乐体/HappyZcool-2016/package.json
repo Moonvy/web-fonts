@@ -25,8 +25,8 @@
     "md5": "0aceab97af2cd21dc57f76aceb1b1722",
     "sha1": "55065b970b1188a75a5c0f65fd753befd8efaf8a"
   },
-  "previewWoff": "fonts/zh/站酷快乐体/HappyZcool-2016/preview/HappyZcool-2016.preview.woff",
-  "previewWoff2": "fonts/zh/站酷快乐体/HappyZcool-2016/preview/HappyZcool-2016.preview.woff2",
-  "woff": "fonts/zh/站酷快乐体/HappyZcool-2016/HappyZcool-2016.woff",
-  "woff2": "fonts/zh/站酷快乐体/HappyZcool-2016/HappyZcool-2016.woff2"
+  "previewWoff": "preview/HappyZcool-2016.preview.woff",
+  "previewWoff2": "preview/HappyZcool-2016.preview.woff2",
+  "woff": "HappyZcool-2016.woff",
+  "woff2": "HappyZcool-2016.woff2"
 }

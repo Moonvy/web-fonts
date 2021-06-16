@@ -1,0 +1,8 @@
+/* [站酷小薇LOGO体] */
+@font-face {
+ font-family: 'xiaowei';
+ font-weight: 400;
+ font-display: swap;
+ src: url(xiaowei.woff2) format('woff2'),
+      url(xiaowei.woff) format('woff');
+}

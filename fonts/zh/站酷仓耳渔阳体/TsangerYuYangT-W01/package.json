@@ -32,8 +32,8 @@
     "md5": "4c8c4bd4bf1918831f33b2930b4dc173",
     "sha1": "429dcfcbc2eeed913bd5202bd55588150b009a6e"
   },
-  "previewWoff": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W01/preview/TsangerYuYangT-W01.preview.woff",
-  "previewWoff2": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W01/preview/TsangerYuYangT-W01.preview.woff2",
-  "woff": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W01/TsangerYuYangT-W01.woff",
-  "woff2": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W01/TsangerYuYangT-W01.woff2"
+  "previewWoff": "preview/TsangerYuYangT-W01.preview.woff",
+  "previewWoff2": "preview/TsangerYuYangT-W01.preview.woff2",
+  "woff": "TsangerYuYangT-W01.woff",
+  "woff2": "TsangerYuYangT-W01.woff2"
 }

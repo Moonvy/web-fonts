@@ -33,8 +33,8 @@
     "md5": "9f6ed9a4b45ce990ea115238df3f6513",
     "sha1": "0afbf3c6affa42b88270e234a094d8151ad03f75"
   },
-  "previewWoff": "fonts/zh/OPPO-Sans/OPPOSans-B/preview/OPPOSans-B.preview.woff",
-  "previewWoff2": "fonts/zh/OPPO-Sans/OPPOSans-B/preview/OPPOSans-B.preview.woff2",
-  "woff": "fonts/zh/OPPO-Sans/OPPOSans-B/OPPOSans-B.woff",
-  "woff2": "fonts/zh/OPPO-Sans/OPPOSans-B/OPPOSans-B.woff2"
+  "previewWoff": "preview/OPPOSans-B.preview.woff",
+  "previewWoff2": "preview/OPPOSans-B.preview.woff2",
+  "woff": "OPPOSans-B.woff",
+  "woff2": "OPPOSans-B.woff2"
 }

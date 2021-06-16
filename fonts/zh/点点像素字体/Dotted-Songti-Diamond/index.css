@@ -1,0 +1,8 @@
+/* [Dotted Songti Diamond] */
+@font-face {
+ font-family: 'Dotted Songti Diamond';
+ font-weight: 500;
+ font-display: swap;
+ src: url(Dotted-Songti-Diamond.woff2) format('woff2'),
+      url(Dotted-Songti-Diamond.woff) format('woff');
+}

@@ -25,8 +25,8 @@
     "md5": "e0fe19573a6fbb248140ac9d783ed92c",
     "sha1": "265abb6d2e64dd7a1a796198c80d43a540950e68"
   },
-  "previewWoff": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/preview/zcoolqingkehuangyouti.preview.woff",
-  "previewWoff2": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/preview/zcoolqingkehuangyouti.preview.woff2",
-  "woff": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/zcoolqingkehuangyouti.woff",
-  "woff2": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/zcoolqingkehuangyouti.woff2"
+  "previewWoff": "preview/zcoolqingkehuangyouti.preview.woff",
+  "previewWoff2": "preview/zcoolqingkehuangyouti.preview.woff2",
+  "woff": "zcoolqingkehuangyouti.woff",
+  "woff2": "zcoolqingkehuangyouti.woff2"
 }

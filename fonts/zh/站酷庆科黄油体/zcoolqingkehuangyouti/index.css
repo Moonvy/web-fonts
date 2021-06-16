@@ -1,0 +1,8 @@
+/* [站酷庆科黄油体] */
+@font-face {
+ font-family: 'zcoolqingkehuangyouti';
+ font-weight: 400;
+ font-display: swap;
+ src: url(zcoolqingkehuangyouti.woff2) format('woff2'),
+      url(zcoolqingkehuangyouti.woff) format('woff');
+}

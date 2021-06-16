@@ -1,0 +1,8 @@
+/* [优设好身体] */
+@font-face {
+ font-family: 'YOUSHEhaoshenti';
+ font-weight: 400;
+ font-display: swap;
+ src: url(YOUSHEhaoshenti.woff2) format('woff2'),
+      url(YOUSHEhaoshenti.woff) format('woff');
+}

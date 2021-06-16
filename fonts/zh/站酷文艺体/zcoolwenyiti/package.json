@@ -25,8 +25,8 @@
     "md5": "e7cbdb104483959fceaa167cfa9cb77e",
     "sha1": "0426276c6cb6d56bb1f90cbb91aac58b17231e6a"
   },
-  "previewWoff": "fonts/zh/站酷文艺体/zcoolwenyiti/preview/zcoolwenyiti.preview.woff",
-  "previewWoff2": "fonts/zh/站酷文艺体/zcoolwenyiti/preview/zcoolwenyiti.preview.woff2",
-  "woff": "fonts/zh/站酷文艺体/zcoolwenyiti/zcoolwenyiti.woff",
-  "woff2": "fonts/zh/站酷文艺体/zcoolwenyiti/zcoolwenyiti.woff2"
+  "previewWoff": "preview/zcoolwenyiti.preview.woff",
+  "previewWoff2": "preview/zcoolwenyiti.preview.woff2",
+  "woff": "zcoolwenyiti.woff",
+  "woff2": "zcoolwenyiti.woff2"
 }

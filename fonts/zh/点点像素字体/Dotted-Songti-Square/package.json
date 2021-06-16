@@ -27,8 +27,8 @@
     "md5": "23a99f299f96fa7583503aa00bad5d02",
     "sha1": "c3fe4b513541856dc63e0a7e731142157971fd59"
   },
-  "previewWoff": "fonts/zh/点点像素字体/Dotted-Songti-Square/preview/Dotted-Songti-Square.preview.woff",
-  "previewWoff2": "fonts/zh/点点像素字体/Dotted-Songti-Square/preview/Dotted-Songti-Square.preview.woff2",
-  "woff": "fonts/zh/点点像素字体/Dotted-Songti-Square/Dotted-Songti-Square.woff",
-  "woff2": "fonts/zh/点点像素字体/Dotted-Songti-Square/Dotted-Songti-Square.woff2"
+  "previewWoff": "preview/Dotted-Songti-Square.preview.woff",
+  "previewWoff2": "preview/Dotted-Songti-Square.preview.woff2",
+  "woff": "Dotted-Songti-Square.woff",
+  "woff2": "Dotted-Songti-Square.woff2"
 }

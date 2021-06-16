@@ -1,0 +1,8 @@
+/* [OPPOSans L] */
+@font-face {
+ font-family: 'OPPOSans L';
+ font-weight: 400;
+ font-display: swap;
+ src: url(OPPOSans-L.woff2) format('woff2'),
+      url(OPPOSans-L.woff) format('woff');
+}

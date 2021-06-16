@@ -1,0 +1,8 @@
+/* [Dotted Songti Square] */
+@font-face {
+ font-family: 'Dotted Songti Square';
+ font-weight: 500;
+ font-display: swap;
+ src: url(Dotted-Songti-Square.woff2) format('woff2'),
+      url(Dotted-Songti-Square.woff) format('woff');
+}

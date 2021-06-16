@@ -1,0 +1,8 @@
+/* [仓耳渔阳体 W04] */
+@font-face {
+ font-family: 'TsangerYuYangT W04';
+ font-weight: 400;
+ font-display: swap;
+ src: url(TsangerYuYangT-W04.woff2) format('woff2'),
+      url(TsangerYuYangT-W04.woff) format('woff');
+}

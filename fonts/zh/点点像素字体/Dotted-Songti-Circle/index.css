@@ -1,0 +1,8 @@
+/* [Dotted Songti Circle] */
+@font-face {
+ font-family: 'Dotted Songti Circle';
+ font-weight: 500;
+ font-display: swap;
+ src: url(Dotted-Songti-Circle.woff2) format('woff2'),
+      url(Dotted-Songti-Circle.woff) format('woff');
+}

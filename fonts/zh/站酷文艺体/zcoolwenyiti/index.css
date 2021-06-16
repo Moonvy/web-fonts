@@ -1,0 +1,8 @@
+/* [站酷文艺体] */
+@font-face {
+ font-family: 'zcoolwenyiti';
+ font-weight: 400;
+ font-display: swap;
+ src: url(zcoolwenyiti.woff2) format('woff2'),
+      url(zcoolwenyiti.woff) format('woff');
+}

@@ -27,8 +27,8 @@
     "md5": "3f8ae3403d4ebc11d3b80634e3477f20",
     "sha1": "e5102e2ea8252cb943c2fa168ab128f11c94db8f"
   },
-  "previewWoff": "fonts/zh/点点像素字体/Dotted-Songti-Diamond/preview/Dotted-Songti-Diamond.preview.woff",
-  "previewWoff2": "fonts/zh/点点像素字体/Dotted-Songti-Diamond/preview/Dotted-Songti-Diamond.preview.woff2",
-  "woff": "fonts/zh/点点像素字体/Dotted-Songti-Diamond/Dotted-Songti-Diamond.woff",
-  "woff2": "fonts/zh/点点像素字体/Dotted-Songti-Diamond/Dotted-Songti-Diamond.woff2"
+  "previewWoff": "preview/Dotted-Songti-Diamond.preview.woff",
+  "previewWoff2": "preview/Dotted-Songti-Diamond.preview.woff2",
+  "woff": "Dotted-Songti-Diamond.woff",
+  "woff2": "Dotted-Songti-Diamond.woff2"
 }

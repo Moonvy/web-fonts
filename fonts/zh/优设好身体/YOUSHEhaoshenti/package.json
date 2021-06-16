@@ -1,0 +1,31 @@
+{
+  "postscriptName": "YOUSHEhaoshenti",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "YOUSHEhaoshenti",
+    "zh": "优设好身体"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "YOUSHEhaoshenti"
+  },
+  "copyright": {
+    "en": "(c) Copyright YouShe Network Technology Co., Ltd",
+    "zh": "(c) Copyright YouShe Network Technology Co., Ltd"
+  },
+  "characterLength": 7182,
+  "displayName": "优设好身体",
+  "rawFileName": "优设好身体.ttf",
+  "rawFileSize": 3270992,
+  "rawFileHash": {
+    "md5": "0bbc4f93dc2f635d845ccc06823f0e99",
+    "sha1": "5142d30f7cbaa4c491fa66f65a1be8c3d1c03c8e"
+  },
+  "previewWoff": "preview/YOUSHEhaoshenti.preview.woff",
+  "previewWoff2": "preview/YOUSHEhaoshenti.preview.woff2",
+  "woff": "YOUSHEhaoshenti.woff",
+  "woff2": "YOUSHEhaoshenti.woff2"
+}

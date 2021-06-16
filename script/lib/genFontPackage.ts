@@ -2,6 +2,7 @@ import path from "path"
 import hasha from "hasha"
 import filenamify from "filenamify"
 import fsex from "fs-extra"
+import { genFontCss } from "./genFontCss"
 import { loadFont, IFontInfo } from "@moonvy/font-slice/src/loadFont/loadFont"
 import { sliceFont } from "@moonvy/font-slice/src/sliceFont/sliceFont"
 
@@ -72,6 +73,8 @@ export async function genFontPackge(
         let oldPackage = fsex.readJSONSync(`${newDir}/package.json`)
         // console.log({oldPackage,packageInfo})
         if (oldPackage.rawFileHash.sha1 == packageInfo.rawFileHash.sha1) {
+            await fsex.writeFile(`${newDir}/package.json`, JSON.stringify(oldPackage, null, 2))
+
             console.timeEnd(`⏱ ${descName} done.`)
             console.info(`🍕 [SKIP] by hash: ${descName}\n`)
             return
@@ -79,11 +82,11 @@ export async function genFontPackge(
     }
 
     // gen preview file
-    let previewFontWoff = `${newDir}/preview/${fontFamilyName}.preview.woff`
-    let previewFontWoff2 = `${newDir}/preview/${fontFamilyName}.preview.woff2`
+    let previewFontWoff = `preview/${fontFamilyName}.preview.woff`
+    let previewFontWoff2 = `preview/${fontFamilyName}.preview.woff2`
     await fsex.ensureDir(`${newDir}/preview`)
-    await genPreviewFont(filePath, previewFontWoff, fontInfo)
-    await genPreviewFont(filePath, previewFontWoff2, fontInfo)
+    await genPreviewFont(filePath, `${newDir}/${previewFontWoff}`, fontInfo)
+    await genPreviewFont(filePath, `${newDir}/${previewFontWoff2}`, fontInfo)
     packageInfo.previewWoff = previewFontWoff
     packageInfo.previewWoff2 = previewFontWoff2
 
@@ -98,8 +101,8 @@ export async function genFontPackge(
     console.time(`⏱ ${descName} convert file.`)
     const myWoffFontBuffer = await fontverter.convert(fontBuffer, "woff")
     const myWoff2FontBuffer = await fontverter.convert(fontBuffer, "woff2")
-    packageInfo.woff = `${newDir}/${fontFamilyName}.woff`
-    packageInfo.woff2 = `${newDir}/${fontFamilyName}.woff2`
+    packageInfo.woff = `${fontFamilyName}.woff`
+    packageInfo.woff2 = `${fontFamilyName}.woff2`
     await fsex.writeFile(packageInfo.woff, myWoffFontBuffer)
     await fsex.writeFile(packageInfo.woff2, myWoff2FontBuffer)
     console.timeEnd(`⏱ ${descName} convert file.`)
@@ -110,6 +113,9 @@ export async function genFontPackge(
     // write packageInfo -----------------
     await fsex.writeFile(`${newDir}/package.json`, JSON.stringify(packageInfo, null, 2))
     await fsex.writeFile(`${newDir}/fontInfo.json`, JSON.stringify(fontInfo))
+
+    // gen css
+    genFontCss(packageInfo, `${newDir}/index.css`)
 
     // slices -----------------
     console.time(`⏱ ${descName} slices.`)

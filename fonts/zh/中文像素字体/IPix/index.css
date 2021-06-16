@@ -1,0 +1,8 @@
+/* [IPix] */
+@font-face {
+ font-family: 'IPix';
+ font-weight: 400;
+ font-display: swap;
+ src: url(IPix.woff2) format('woff2'),
+      url(IPix.woff) format('woff');
+}

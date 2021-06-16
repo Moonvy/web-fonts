@@ -1,0 +1,8 @@
+/* [站酷酷黑] */
+@font-face {
+ font-family: 'ZCOOL_KuHei';
+ font-weight: 400;
+ font-display: swap;
+ src: url(ZCOOL_KuHei.woff2) format('woff2'),
+      url(ZCOOL_KuHei.woff) format('woff');
+}

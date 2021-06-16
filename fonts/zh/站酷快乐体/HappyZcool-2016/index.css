@@ -1,0 +1,8 @@
+/* [站酷快乐体2016修订版] */
+@font-face {
+ font-family: 'HappyZcool-2016';
+ font-weight: 400;
+ font-display: swap;
+ src: url(HappyZcool-2016.woff2) format('woff2'),
+      url(HappyZcool-2016.woff) format('woff');
+}
