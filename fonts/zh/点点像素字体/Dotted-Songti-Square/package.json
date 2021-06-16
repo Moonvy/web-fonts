@@ -1,0 +1,34 @@
+{
+  "postscriptName": "DottedSongtiSquareRegular",
+  "fontWeight": 500,
+  "fontFamily": {
+    "en": "Dotted Songti Square"
+  },
+  "fontSubfamily": {
+    "en": "Regular"
+  },
+  "fullName": {
+    "en": "Dotted Songti Square Regular"
+  },
+  "preferredFamily": {
+    "en": "Dotted Songti Square"
+  },
+  "preferredSubfamily": {
+    "en": "Regular"
+  },
+  "copyright": {
+    "en": "Copyright (C) 2020 wixette"
+  },
+  "characterLength": 22793,
+  "displayName": "点点像素字体",
+  "rawFileName": "DottedSongtiSquareRegular.otf",
+  "rawFileSize": 9465956,
+  "rawFileHash": {
+    "md5": "23a99f299f96fa7583503aa00bad5d02",
+    "sha1": "c3fe4b513541856dc63e0a7e731142157971fd59"
+  },
+  "previewWoff": "fonts/zh/点点像素字体/Dotted-Songti-Square/preview/Dotted-Songti-Square.preview.woff",
+  "previewWoff2": "fonts/zh/点点像素字体/Dotted-Songti-Square/preview/Dotted-Songti-Square.preview.woff2",
+  "woff": "fonts/zh/点点像素字体/Dotted-Songti-Square/Dotted-Songti-Square.woff",
+  "woff2": "fonts/zh/点点像素字体/Dotted-Songti-Square/Dotted-Songti-Square.woff2"
+}

@@ -1,0 +1,32 @@
+{
+  "postscriptName": "ZCOOL_KuHei",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "ZCOOL_KuHei",
+    "zh": "站酷酷黑"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "ZCOOL_KuHei",
+    "zh": "站酷酷黑"
+  },
+  "copyright": {
+    "en": "(c) Copyright HuXiaoBo 2016",
+    "zh": "(c) Copyright 胡晓波  2016"
+  },
+  "characterLength": 4371,
+  "displayName": "站酷酷黑体",
+  "rawFileName": "站酷酷黑体.ttf",
+  "rawFileSize": 2144072,
+  "rawFileHash": {
+    "md5": "6b4f114c44c815accc37538e06e79d6b",
+    "sha1": "021c6223577ab8d96867dd4c4d5672cb6d2a9621"
+  },
+  "previewWoff": "fonts/zh/站酷酷黑体/ZCOOL_KuHei/preview/ZCOOL_KuHei.preview.woff",
+  "previewWoff2": "fonts/zh/站酷酷黑体/ZCOOL_KuHei/preview/ZCOOL_KuHei.preview.woff2",
+  "woff": "fonts/zh/站酷酷黑体/ZCOOL_KuHei/ZCOOL_KuHei.woff",
+  "woff2": "fonts/zh/站酷酷黑体/ZCOOL_KuHei/ZCOOL_KuHei.woff2"
+}

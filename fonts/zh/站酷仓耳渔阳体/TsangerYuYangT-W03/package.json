@@ -1,0 +1,39 @@
+{
+  "postscriptName": "TsangerYuYangT-W03",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "TsangerYuYangT W03",
+    "zh": "仓耳渔阳体 W03"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "zh": "仓耳渔阳体 W03"
+  },
+  "preferredFamily": {
+    "en": "TsangerYuYangT",
+    "zh": "仓耳渔阳体"
+  },
+  "preferredSubfamily": {
+    "en": "W03",
+    "zh": "W03"
+  },
+  "copyright": {
+    "en": "Copyright © Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
+    "zh": "©北京仓耳文字技术有限公司。保留所有权利。"
+  },
+  "characterLength": 7050,
+  "displayName": "站酷仓耳渔阳体",
+  "rawFileName": "站酷仓耳渔阳体-W03.ttf",
+  "rawFileSize": 1562900,
+  "rawFileHash": {
+    "md5": "074317ddeee65d7448fc71e40d68cfeb",
+    "sha1": "49246151217b9c39028b3ec87d245b4fea852d46"
+  },
+  "previewWoff": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W03/preview/TsangerYuYangT-W03.preview.woff",
+  "previewWoff2": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W03/preview/TsangerYuYangT-W03.preview.woff2",
+  "woff": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W03/TsangerYuYangT-W03.woff",
+  "woff2": "fonts/zh/站酷仓耳渔阳体/TsangerYuYangT-W03/TsangerYuYangT-W03.woff2"
+}

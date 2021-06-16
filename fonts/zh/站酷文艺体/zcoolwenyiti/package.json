@@ -1,0 +1,32 @@
+{
+  "postscriptName": "zcoolwenyiti",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "zcoolwenyiti",
+    "zh": "站酷文艺体"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "常规"
+  },
+  "fullName": {
+    "en": "zcoolwenyiti",
+    "zh": "站酷文艺体"
+  },
+  "copyright": {
+    "en": "(c) 2018 zcool.All rights reserved.",
+    "zh": "版权 (c) 2018 属 站酷 所有。保留所有权利。"
+  },
+  "characterLength": 7455,
+  "displayName": "站酷文艺体",
+  "rawFileName": "站酷文艺体.ttf",
+  "rawFileSize": 3973176,
+  "rawFileHash": {
+    "md5": "e7cbdb104483959fceaa167cfa9cb77e",
+    "sha1": "0426276c6cb6d56bb1f90cbb91aac58b17231e6a"
+  },
+  "previewWoff": "fonts/zh/站酷文艺体/zcoolwenyiti/preview/zcoolwenyiti.preview.woff",
+  "previewWoff2": "fonts/zh/站酷文艺体/zcoolwenyiti/preview/zcoolwenyiti.preview.woff2",
+  "woff": "fonts/zh/站酷文艺体/zcoolwenyiti/zcoolwenyiti.woff",
+  "woff2": "fonts/zh/站酷文艺体/zcoolwenyiti/zcoolwenyiti.woff2"
+}

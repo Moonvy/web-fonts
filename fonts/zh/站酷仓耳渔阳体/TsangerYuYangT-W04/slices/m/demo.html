@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>SliceFont</title>
+        <link rel="stylesheet" href="font-slices.css" />
+        <style>
+            style { display: block; white-space: pre-wrap;}
+        </style>
+    </head>
+
+    <body contenteditable="true">
+         <style>
+            body {
+                font-family: 'TsangerYuYangT W04';
+                font-size: 15px;
+            }
+        </style>
+        <p>
+            我们应该在这里指出的重要语义区别是unicode-range确定字体可以用于哪些字符，而不是字体可以使用哪些字符。换句话说，如果我们声明一个unicode-rangeon@font-face并且在
+            HTML 文档中加载的字符匹配该范围，那么字体将被下载并投入使用。
+            您可以想象此属性带来的性能优势。例如，我们可以仅在容纳特定字符时加载自定义字体，而不是在所有情况下都加载字体。
+            由于Jake Archibald
+            分享了一个方便的技巧，甚至有一种方法可以@font-face在同一个font-face属性声明上组合两个集合。这个想法是，根据匹配的、优化性能或简单地增强页面上的排版，一组覆盖另一组。@font-faceunicode-range
+            刘看山知乎指南知乎协议知乎隐私保护指引
+            应用工作申请开通知乎机构号
+            侵权举报网上有害信息举报专区
+            京 ICP 证 110745 号
+            京 ICP 备 13052560 号 - 1
+            京公网安备 11010802020088 号
+            互联网药品信息服务资格证书
+            （京）- 非经营性 - 2017 - 0067违法和不良信息举报：010-82716601
+            儿童色情信息举报专区
+            证照中心Investor Relations
+            联系我们 © 2021 知乎
+        </p>
+    </body>
+</html>

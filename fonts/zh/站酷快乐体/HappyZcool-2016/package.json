@@ -1,0 +1,32 @@
+{
+  "postscriptName": "HappyZcool-2016",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "HappyZcool-2016",
+    "zh": "站酷快乐体2016修订版"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "Regular"
+  },
+  "fullName": {
+    "en": "HappyZcool-2016",
+    "zh": "站酷快乐体2016修订版"
+  },
+  "copyright": {
+    "en": "(c) Copyright LuiBingKe 2016",
+    "zh": "(c) Copyright 刘兵克 2016"
+  },
+  "characterLength": 7810,
+  "displayName": "站酷快乐体",
+  "rawFileName": "站酷快乐体2016修订版.ttf",
+  "rawFileSize": 1669784,
+  "rawFileHash": {
+    "md5": "0aceab97af2cd21dc57f76aceb1b1722",
+    "sha1": "55065b970b1188a75a5c0f65fd753befd8efaf8a"
+  },
+  "previewWoff": "fonts/zh/站酷快乐体/HappyZcool-2016/preview/HappyZcool-2016.preview.woff",
+  "previewWoff2": "fonts/zh/站酷快乐体/HappyZcool-2016/preview/HappyZcool-2016.preview.woff2",
+  "woff": "fonts/zh/站酷快乐体/HappyZcool-2016/HappyZcool-2016.woff",
+  "woff2": "fonts/zh/站酷快乐体/HappyZcool-2016/HappyZcool-2016.woff2"
+}

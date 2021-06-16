@@ -1,0 +1,32 @@
+{
+  "postscriptName": "zcoolqingkehuangyouti-Regular",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "zcoolqingkehuangyouti",
+    "zh": "站酷庆科黄油体"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "常规"
+  },
+  "fullName": {
+    "en": "zcoolqingkehuangyouti-Regular",
+    "zh": "站酷庆科黄油体常规"
+  },
+  "copyright": {
+    "en": "(c) 2018 zcool.All rights reserved.",
+    "zh": "版权 (c) 2018 属 北京站酷网络科技有限公司 所有。保留所有权利。                                                  u\u0004\u0004\u0006"
+  },
+  "characterLength": 10477,
+  "displayName": "站酷庆科黄油体",
+  "rawFileName": "站酷庆科黄油体.ttf",
+  "rawFileSize": 9745240,
+  "rawFileHash": {
+    "md5": "e0fe19573a6fbb248140ac9d783ed92c",
+    "sha1": "265abb6d2e64dd7a1a796198c80d43a540950e68"
+  },
+  "previewWoff": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/preview/zcoolqingkehuangyouti.preview.woff",
+  "previewWoff2": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/preview/zcoolqingkehuangyouti.preview.woff2",
+  "woff": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/zcoolqingkehuangyouti.woff",
+  "woff2": "fonts/zh/站酷庆科黄油体/zcoolqingkehuangyouti/zcoolqingkehuangyouti.woff2"
+}

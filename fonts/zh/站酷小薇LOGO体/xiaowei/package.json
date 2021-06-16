@@ -1,0 +1,31 @@
+{
+  "postscriptName": "xiaowei",
+  "fontWeight": 400,
+  "fontFamily": {
+    "en": "xiaowei",
+    "zh": "站酷小薇LOGO体"
+  },
+  "fontSubfamily": {
+    "en": "Regular",
+    "zh": "常规"
+  },
+  "fullName": {
+    "en": "xiaowei",
+    "zh": "站酷小薇LOGO体"
+  },
+  "copyright": {
+    "en": "本字库所有权归上海佐兹品牌设计公司"
+  },
+  "characterLength": 7714,
+  "displayName": "站酷小薇LOGO体",
+  "rawFileName": "站酷小薇LOGO体.otf",
+  "rawFileSize": 4062520,
+  "rawFileHash": {
+    "md5": "a92226e3152e356e856aaf17ef794843",
+    "sha1": "cd79a4d3b00135f48eab2519d7596e7e4f6742bf"
+  },
+  "previewWoff": "fonts/zh/站酷小薇LOGO体/xiaowei/preview/xiaowei.preview.woff",
+  "previewWoff2": "fonts/zh/站酷小薇LOGO体/xiaowei/preview/xiaowei.preview.woff2",
+  "woff": "fonts/zh/站酷小薇LOGO体/xiaowei/xiaowei.woff",
+  "woff2": "fonts/zh/站酷小薇LOGO体/xiaowei/xiaowei.woff2"
+}
